@@ -1,4 +1,4 @@
-# dsp-mini-projects
+# Dsp-projects
 1 - Pulse-code Modulation (PCM)
 
 A short demo of PCM with u-Law companding. Run "pcm_main.m"
@@ -8,18 +8,10 @@ A short demo of PCM with u-Law companding. Run "pcm_main.m"
 Implementation of DPCM as in Ingle, V. and Proakis, J., 2015. Digital signal processing using MATLAB. 4th ed. p.591.
 Run "dpcm_main.m" and record your voice for 3 seconds and your sound will be compressed.
 
-3 - Fuzzy k-means clustering
-
-Operates on 2D data.
-
-4 - Linear Predictive Coding
+3 - Linear Predictive Coding
 
 Demo for LPC speech compression.
 
-5 - FIR Filter Design by Frequency Domain Sampling
+4 - Adppcm (adaptive pulse code modulation)
 
-A demo for this type of filter design.
 
-6 - System identification by LMS
-
-A demo of LMS algorithm for identifying system impulse response.
